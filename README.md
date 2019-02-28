@@ -1,0 +1,2 @@
+# oci-squid
+Containerized squid
